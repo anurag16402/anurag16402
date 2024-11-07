@@ -4,7 +4,7 @@
 </a-->
 
 <h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=800&width=435&lines=Backend+Developer;Software+Engineer;Python+Developer;Data+Analyst;Welcome+..." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=800&width=435&lines=Flutter+Developer;Software+Engineer;Python+Developer;Data+Analyst;Welcome+..." alt="Typing SVG" /></a>
 </h1>
 <h3 align="center">I am a highly skilled and motivated Full Stack Software Engineer with a passion for solving complex challenges and creating innovative solutions for Data Structures and Algorithm. With expertise in Java, frontend and backend development, I craft seamless user experiences. Beyond web development, I delve into data analysis, NLP, and predictive modeling using Python, SQL, and Machine Learning. My adaptability shines through active contributions to diverse projects, and my strong organizational skills ensure effective project management in fast-paced environments. Pursuing a bachelor's program at PSIT, I am eager to make a significant impact in software engineering, pushing technological boundaries and collaborating with like-minded individuals.</h3>
 
